@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="title">Simple Tech Quiz</string>
+//Question A
+    <string name="questionA">a. Which one of the following is a search engine?</string>
+    <string name="answerA1">Amazon</string>
+    <string name="answerA2">Google</string>
+    <string name="answerA3">Chrome</string>
+//Question B
+    <string name="questionB">b. Who owns WhatsApp??</string>
+    <string name="answerB1">YouTube</string>
+    <string name="answerB2">Facebook</string>
+    <string name="answerB3">Bill Gates</string>
+//Question C
+    <string name="questionC">c. Most used Mobile OS?</string>
+    <string name="answerC1">iOS</string>
+    <string name="answerC2">Android</string>
+    <string name="answerC3">Linux</string>
+//Question D
+    <string name="questionD">d. Which one of the following statements is true about Java?</string>
+    <string name="answerD1">Java has a huge developer community</string>
+    <string name="answerD2">Java is used only in web applications</string>
+    <string name="answerD3">Java is used only in NASA\'s space applications</string>
+//Question E
+    <string name="questionE">e. In Java, a class define&#8230; (hint: choose two)?</string>
+    <string name="answerE1">Behavior</string>
+    <string name="answerE2">Values</string>
+    <string name="answerE3">Attributes</string>
+//Question F
+    <string name="questionF">f. What is name of the latest Android OS?</string>
+    <string name="hint">2017 version</string>
+//Submit BTN
+    <string name="submit">Submit</string>
+</resources>
